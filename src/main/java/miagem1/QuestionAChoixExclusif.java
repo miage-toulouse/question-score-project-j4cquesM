@@ -9,7 +9,7 @@ public class QuestionAChoixExclusif implements QuestionAChoix {
     private int indiceBonneReponse;
 
     /**
-     * Une question à choix excusive est complètement caractérisé par son énoncé et l'indice de sa bonne réponse
+     * Une question à choix exclusive est complètement caractérisée par son énoncé et l'indice de sa bonne réponse
      * @param enonce l'énoncé de la question
      * @param indiceBonneReponse l'indice de la bonne réponse
      */
